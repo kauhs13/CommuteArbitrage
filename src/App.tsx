@@ -177,6 +177,8 @@ function App() {
                 </h1>
                 <p className="text-slate-300 text-base md:text-lg mb-8 leading-relaxed">
                   We aggregate <b>Real Estate data</b>, <b>Mobility costs</b>, and your <b>Hourly Salary</b> to calculate your <span className="text-white font-semibold">True Cost of Living</span>.
+                  <br></br><br></br>
+                  Designed by Shubham Kaushik ❤️
                 </p>
                 <button
                   onClick={handleCreateScenario}
