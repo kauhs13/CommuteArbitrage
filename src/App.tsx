@@ -179,7 +179,7 @@ function App() {
                   We aggregate <b>Real Estate data</b>, <b>Mobility costs</b>, and your <b>Hourly Salary</b> to calculate your <span className="text-white font-semibold">True Cost of Living</span>.
                   <br></br><br></br>
                   Ideated by Shubham Kaushik.
-                  <br></br><br></br>
+                  <br></br>
                 </p>
                 <button
                   onClick={handleCreateScenario}
